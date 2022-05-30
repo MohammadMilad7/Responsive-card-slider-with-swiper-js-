@@ -22,11 +22,11 @@ body{
     padding: 40px 0;
 }
 .card{
-    width: 320px;
     border-radius: 25px;
     background-color: #fff;
 }
 .slide-content{
+    padding: 45px 20px;
     margin: 0 40px;
 }
 .image-content,
